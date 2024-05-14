@@ -1,0 +1,14 @@
+{
+  "name": "sbq-producer",
+  "version": "1.0.0",
+  "description": "Producer node js application for Azure Service Bus Queue",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/service-bus": "^7.9.4"
+  }
+}
